@@ -79,6 +79,15 @@
 
 
 
+## Beacon Chain Explorer Ethereum 2.0
+
+
+
++ [beaconcha.in](https://beaconcha.in/)
++ [beaconscan](https://beaconscan.com/)
+
+
+
 ## Filecoin Explorer
 
 
@@ -156,6 +165,14 @@
 
 
 + [Chia Explorer](https://www.chiaexplorer.com/blockchain/blocks)
+
+
+
+## Arbitrum L2 Explorer
+
+
+
++ [arbiscan](https://arbiscan.io/)
 
 
 
