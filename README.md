@@ -1,4 +1,4 @@
-# awesome-blockchain-explorer
+# Awesome Blockchain Explorer
 
 
 
@@ -10,20 +10,20 @@
 
 
 
-| Site                                                        | Desc                                        |
-| ----------------------------------------------------------- | ------------------------------------------- |
-| [bitquery](https://explorer.bitquery.io/)                   | https://bitquery.io/                        |
-| blockchair                                                  |                                             |
-| btc.com                                                     |                                             |
-| oklink.com                                                  |                                             |
-| tokenview.com                                               |                                             |
-| bitinfocharts                                               | https://bitinfocharts.com/bitcoin/explorer/ |
-| blockexplorer.one                                           |                                             |
-| [sochain](https://sochain.com/)                             |                                             |
-| [BlockCypher](https://live.blockcypher.com/)                |                                             |
-| [bitcoinblockexplorers](https://bitcoinblockexplorers.com/) |                                             |
-| [blockchain.com](https://www.blockchain.com/explorer)       |                                             |
-| [viawallet](https://explorer.viawallet.com)                 |                                             |
+| Site                                                         | Desc |
+| ------------------------------------------------------------ | ---- |
+| [bitquery](https://explorer.bitquery.io/)                    |      |
+| [blockchair](https://blockchair.com/)                        |      |
+| [btc.com](https://btc.com/)                                  |      |
+| [oklink.com](https://www.oklink.com/)                        |      |
+| [tokenview.com](https://tokenview.com/)                      |      |
+| [bitinfocharts](https://bitinfocharts.com)                   |      |
+| [blockexplorer.one](https://blockexplorer.one/bitcoin/mainnet) |      |
+| [sochain](https://sochain.com/)                              |      |
+| [BlockCypher](https://live.blockcypher.com/)                 |      |
+| [bitcoinblockexplorers](https://bitcoinblockexplorers.com/)  |      |
+| [blockchain.com](https://www.blockchain.com/explorer)        |      |
+| [viawallet](https://explorer.viawallet.com)                  |      |
 
 
 
@@ -34,7 +34,6 @@
 
 
 + [Mempool](https://mempool.space)  An open-source explorer developed for the Bitcoin community,  focusing on the emerging transaction fee market to help our transition  into a multi-layer ecosystem.     [:octocat:](https://github.com/mempool/mempool)
-
 + [Bitcoin Explorer](https://bitcoinexplorer.org/)  An easy-to-use, educational explorer whose only dependency is your **Bitcoin Core** node! By [@janoside](https://github.com/janoside)   [:octocat:](https://github.com/janoside/btc-rpc-explorer)
 + [Blockstream.info: Bitcoin Explorer](https://blockstream.info/) Blockstream *Explorer* is an open source block *explorer* providing detailed *blockchain* data across *Bitcoin*, Testnet, and Liquid.   [:octocat:](https://github.com/Blockstream/esplora)
 + [bitaps.com](https://bitaps.com/) provides *Bitcoin explorer* web service allowing to track transactions, blocks and address balances. 
@@ -45,6 +44,10 @@
 + [Blockchain 3D Explorer](https://blockchain3d.info/)  A free, multi-platform, *Blockchain Explorer* that visualises Blockchains in glorious 3D and Virtual Reality.Bitcoin and open-source available now!
 + [Symphony of Blockchains](https://symphony.iohk.io/en/) Symphony Logo. Symphony. 3D *Blockchain Explorer*.
 + [Bitflyer](https://chainflyer.bitflyer.com/) 
++ [MATBEA](https://matbea.net/)
++ [bitcoin-transaction-explorer](https://github.com/yogh-io/bitcoin-transaction-explorer)  Simple and pure block explorer you can run on top of a full node    
++ [Crex24.com](https://crex24.com/explorer/btc)
++ [Oxt.me](https://oxt.me)
 
 
 
@@ -68,6 +71,7 @@
 + [Etherscan](https://etherscan.io/) 
 + [Enjinx.io](https://enjinx.io/eth/blocks)
 + [Ethplorer.io](https://ethplorer.io/)
++ [Otterscan](https://github.com/wmitsuda/otterscan)
 
 
 
@@ -76,6 +80,14 @@
 
 
 + [polygonscan](https://polygonscan.com/)
+
+
+
+## Layer 2 Explorer
+
+
+
++ [Blocknative Mempool Explorer](https://explorer.blocknative.com/)
 
 
 
@@ -141,6 +153,7 @@
 
 
 + [GrinExplorer](https://grinexplorer.net/)
++ [Grinscan](https://grinscan.net/)
 
 
 
