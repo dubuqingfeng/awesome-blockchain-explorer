@@ -47,7 +47,8 @@
 + [MATBEA](https://matbea.net/)
 + [bitcoin-transaction-explorer](https://github.com/yogh-io/bitcoin-transaction-explorer)  Simple and pure block explorer you can run on top of a full node    
 + [Crex24.com](https://crex24.com/explorer/btc)
-+ [Oxt.me](https://oxt.me)
++ [blockchainsql.io](http://blockchainsql.io/explorer)
++ [anyblockanalytics](https://www.anyblockanalytics.com)
 
 
 
