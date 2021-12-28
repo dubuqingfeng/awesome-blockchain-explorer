@@ -220,3 +220,9 @@
 
 + [blockexplorer](https://blockexplorer.com/) The Handshake Block Explorer
 
+
+## Decred Explorer
+
+
+
++ [dcrdata](https://dcrdata.decred.org/) The Decred Block Explorer [:octocat:](https://github.com/decred/dcrdata/)
