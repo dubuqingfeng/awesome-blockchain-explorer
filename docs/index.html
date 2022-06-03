@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="./public/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="./public/css/app.css">
+    <link rel="stylesheet" type="text/css" href="./public/css/toastr.min.css">
+</head>
+<body>
+<div class="main">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="text-wrap">
+                浏览器搜索链接转换<sup>Alpha</sup>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="input-group input-group-lg">
+                <div class="input-group-btn">
+                    <button type="button" class="btn btn-default dropdown-toggle search-select" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" name="auto">比特币 <span class="caret"></span></button>
+                    <input type="text" id="type" name="type" class="endselect" value="0" hidden="">
+                    <ul class="dropdown-menu select-ul">
+                        <li><a href="javascript:;" name="0">比特币</a></li>
+                        <li><a href="javascript:;" name="3">Ethereum</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="javascript:;" name="1">以太坊</a></li>
+                        <li><a href="javascript:;" name="2">以太经典</a></li>
+                    </ul>
+                </div>
+                <input type="text" id="address" class="form-control" aria-label="输入区块链地址 " name="address" value="" >
+                <div class="input-group-btn">
+                    <button type="submit" id="search" class="btn btn-success btn-lg search-btn" data-loading-text="Loading..." aria-haspopup="true"
+                            aria-expanded="false"><b>查找</b></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="./public/js/jquery.min.js"></script>
+<script src="./public/js/bootstrap.min.js"></script>
+<script src="./public/js/moment.min.js"></script>
+<script src="./public/js/toastr.min.js"></script>
+<script src="./public/js/chartjs/Chart.min.js"></script>
+<script src="./public/js/chartjs/chartjs-plugin-zoom.min.js"></script>
+<script src="./public/js/app.js"></script>
+</body>
+</html>
