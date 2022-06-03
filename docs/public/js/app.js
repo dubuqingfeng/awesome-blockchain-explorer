@@ -7,6 +7,7 @@ function printDate(timestamp) {
 var explorers = [
     "btc.com"
 ];
+$('select').selectpicker();
 // charts
 window.chartColors = {
     red: 'rgb(255, 99, 132)',
@@ -23,7 +24,7 @@ window.chartColors = {
     seagreen: 'rgb(46, 139, 87)',
     lightslategray: 'rgb(119, 136, 153)'
 };
-var ctx = document.getElementById('chart').getContext('2d');
+// var ctx = document.getElementById('chart').getContext('2d');
 var pooldatasets = [{
     label: "btc.com",
     data: [],
@@ -38,7 +39,7 @@ var config = {
 
     // The data for our dataset
     data: {
-        labels: pools,
+        labels: explorers,
         datasets: pooldatasets
     },
 
@@ -86,7 +87,7 @@ var config = {
         }
     }
 };
-var chart = new Chart(ctx, config);
+// var chart = new Chart(ctx, config);
 
 $(document).ready(function () {
     $('#chart').hide();
@@ -132,16 +133,16 @@ $(function () {
     });
 });
 
-// websocket
-url = 'wss://';
-// url = 'ws://127.0.0.1:8080/ws';
-c = new WebSocket(url);
+// // websocket
+// url = 'wss://';
+// // url = 'ws://127.0.0.1:8080/ws';
+// c = new WebSocket(url);
 
-send = function (data) {
-    c.send(data)
-};
+// send = function (data) {
+//     c.send(data)
+// };
 
-c.onmessage = function (msg) {
-};
+// c.onmessage = function (msg) {
+// };
 
-c.onopen = function () {};
+// c.onopen = function () {};

@@ -1,12 +1,3 @@
-.list-group-item {
-    border-right: 0;
-    border-left: 0;
-}
-
-li.first-item {
-    border-top: 0 none;
-}
-
 body, html {
     width: 100%;
     height: 100%;
@@ -14,17 +5,13 @@ body, html {
 }
 
 .main {
-    width: 700px;
+    width: 1000px;
     height: 400px;
     position: absolute;
     top: 50%;
     left: 50%;
     margin-top: -250px;
-    margin-left: -350px
-}
-
-.main-panel {
-    margin-top: 80px
+    margin-left: -500px
 }
 
 .text-wrap {
@@ -41,16 +28,6 @@ body, html {
     font-weight: 600
 }
 
-#footer nav {
-    background-color: #dedede
-}
-
-.btc.com {
-    color: #8a6d3b;
-    background-color: #fcf8e3;
-}
-
-.F2Pool {
-    color: #8a6d3b;
-    background-color: #fcf8e3;
+.custom-select {
+    height: 100%;
 }
