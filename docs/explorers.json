@@ -1,0 +1,20 @@
+{
+    "btccom": {
+        "name": "BTC.com",
+        "title": "BTC.com",
+        "url": "https://www.btc.com/",
+        "search": "https://explorer.btc.com/search/{0}"
+    },
+    "etherscan": {
+        "name": "Etherscan",
+        "title": "Etherscan",
+        "url": "https://etherscan.io/",
+        "search": "https://etherscan.io/search?q={0}"
+    },
+    "etherchain": {
+        "name": "Etherchain",
+        "title": "Etherchain",
+        "url": "https://www.etherchain.org/",
+        "search": "https://www.etherchain.org/search?q={0}"
+    }
+}
